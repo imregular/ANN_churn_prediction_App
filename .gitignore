@@ -1,0 +1,13 @@
+# Environment and logs
+venv/
+logs/
+
+# Binary files
+*.pkl
+*.h5
+
+# Jupyter notebooks auto-saves
+.ipynb_checkpoints/
+
+# Optional: ignore raw dataset (if sensitive or large)
+# Churn_Modelling.csv
